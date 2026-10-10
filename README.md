@@ -211,4 +211,4 @@ If you experience any problems, refer to the troubleshooting section in the docu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-10 14:59:29 UTC
+**Last updated:** 2026-10-10 19:12:58 UTC
